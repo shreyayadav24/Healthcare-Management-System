@@ -1,21 +1,101 @@
 name,age,gender,blood_type,allergies,condition,doctor,appointment_type,date
-Aarav,34,M,O+,None,Hypertension,Dr. Sharma,Checkup,2025-01-12
-Meera,29,F,A+,Penicillin,Diabetes,Dr. Patel,Follow-up,2025-01-15
-Rohan,45,M,B+,Dust,Cardiac Issues,Dr. Mehta,Consultation,2025-01-18
-Ananya,22,F,O-,None,Flu,Dr. Singh,Emergency,2025-01-20
-Kabir,38,M,AB+,Shellfish,Hypertension,Dr. Sharma,Checkup,2025-01-22
-Sneha,31,F,A-,None,Diabetes,Dr. Patel,Follow-up,2025-01-25
-Arjun,50,M,B-,None,Cardiac Issues,Dr. Mehta,Consultation,2025-01-28
-Priya,27,F,O+,Pollen,Asthma,Dr. Verma,Checkup,2025-02-02
-Rahul,41,M,A+,None,Hypertension,Dr. Sharma,Follow-up,2025-02-05
-Isha,36,F,B+,Gluten,Diabetes,Dr. Patel,Consultation,2025-02-08
-Karan,55,M,O-,None,Cardiac Issues,Dr. Mehta,Emergency,2025-02-12
-Neha,24,F,A+,None,Flu,Dr. Singh,Checkup,2025-02-15
-Vikram,48,M,AB-,Dust,Hypertension,Dr. Sharma,Follow-up,2025-02-18
-Simran,30,F,O+,None,Asthma,Dr. Verma,Consultation,2025-02-20
-Aditya,39,M,B+,None,Diabetes,Dr. Patel,Checkup,2025-02-25
-Ritika,33,F,A-,Shellfish,Hypertension,Dr. Sharma,Follow-up,2025-03-01
-Manav,28,M,O+,None,Flu,Dr. Singh,Emergency,2025-03-04
-Pooja,42,F,B-,None,Cardiac Issues,Dr. Mehta,Consultation,2025-03-08
-Nikhil,37,M,A+,Dust,Asthma,Dr. Verma,Checkup,2025-03-12
-Kavya,26,F,O-,None,Diabetes,Dr. Patel,Follow-up,2025-03-15
+Ritika0,65,F,A+,Penicillin,Flu,Dr. Mehta,Follow-up,2025-03-09
+Kabir1,33,M,A+,Gluten,Hypertension,Dr. Sharma,Emergency,2025-06-03
+Arjun2,29,M,O+,None,Diabetes,Dr. Singh,Emergency,2025-04-08
+Aditya3,70,F,A-,Penicillin,Asthma,Dr. Sharma,Consultation,2025-10-21
+Manav4,57,M,O+,Pollen,Hypertension,Dr. Singh,Checkup,2025-09-09
+Karan5,45,F,B+,Pollen,Flu,Dr. Sharma,Follow-up,2025-01-01
+Isha6,58,M,AB-,Pollen,Cardiac Issues,Dr. Mehta,Checkup,2025-02-12
+Aarav7,56,M,AB+,None,Diabetes,Dr. Patel,Emergency,2025-02-25
+Kavya8,48,M,AB-,Shellfish,Asthma,Dr. Patel,Checkup,2025-04-24
+Aditya9,40,M,O+,Shellfish,Asthma,Dr. Sharma,Checkup,2025-08-22
+Isha10,30,M,B+,Gluten,Cardiac Issues,Dr. Verma,Consultation,2025-11-21
+Pooja11,56,F,O+,Gluten,Cardiac Issues,Dr. Mehta,Consultation,2025-11-23
+Aditya12,25,M,B+,None,Flu,Dr. Singh,Consultation,2025-05-24
+Nikhil13,27,M,A-,None,Cardiac Issues,Dr. Verma,Emergency,2025-01-26
+Kabir14,69,F,O-,None,Diabetes,Dr. Sharma,Consultation,2025-03-12
+Aarav15,29,M,A+,Pollen,Cardiac Issues,Dr. Mehta,Emergency,2025-01-14
+Meera16,28,F,O-,Shellfish,Cardiac Issues,Dr. Patel,Emergency,2025-01-18
+Aarav17,58,F,A-,Pollen,Asthma,Dr. Singh,Consultation,2025-10-18
+Nikhil18,39,M,B-,None,Cardiac Issues,Dr. Sharma,Consultation,2025-04-25
+Vikram19,26,F,O-,Dust,Flu,Dr. Mehta,Checkup,2025-03-05
+Arjun20,62,F,A-,Pollen,Hypertension,Dr. Verma,Emergency,2025-11-05
+Simran21,46,M,AB-,Dust,Flu,Dr. Sharma,Checkup,2025-06-03
+Rahul22,44,F,AB-,Gluten,Diabetes,Dr. Singh,Consultation,2025-09-04
+Sneha23,39,F,A+,Dust,Cardiac Issues,Dr. Singh,Consultation,2025-08-22
+Ananya24,21,M,A+,Shellfish,Diabetes,Dr. Singh,Emergency,2025-12-16
+Aarav25,28,F,A+,None,Diabetes,Dr. Sharma,Checkup,2025-08-07
+Kabir26,20,F,O-,Dust,Asthma,Dr. Singh,Follow-up,2025-06-28
+Ananya27,20,F,AB-,Shellfish,Asthma,Dr. Sharma,Follow-up,2025-01-15
+Manav28,70,M,A-,Dust,Hypertension,Dr. Patel,Consultation,2025-05-22
+Rohan29,22,M,B+,Penicillin,Asthma,Dr. Verma,Emergency,2025-06-20
+Aditya30,22,M,O+,Gluten,Asthma,Dr. Singh,Consultation,2025-07-06
+Sneha31,45,M,B-,Shellfish,Flu,Dr. Mehta,Checkup,2025-09-02
+Rohan32,38,F,AB-,Pollen,Asthma,Dr. Singh,Consultation,2025-06-18
+Manav33,33,M,AB-,Shellfish,Flu,Dr. Singh,Checkup,2025-01-25
+Aditya34,53,M,AB+,Penicillin,Cardiac Issues,Dr. Mehta,Consultation,2025-02-15
+Aarav35,58,F,O+,Gluten,Cardiac Issues,Dr. Sharma,Emergency,2025-10-27
+Arjun36,68,F,O-,Gluten,Cardiac Issues,Dr. Singh,Emergency,2025-03-06
+Rohan37,51,F,B-,Shellfish,Hypertension,Dr. Singh,Follow-up,2025-09-13
+Meera38,36,M,O-,Shellfish,Flu,Dr. Patel,Checkup,2025-05-12
+Meera39,20,M,A-,Shellfish,Asthma,Dr. Singh,Consultation,2025-10-11
+Ritika40,27,M,O+,Gluten,Asthma,Dr. Patel,Follow-up,2025-09-10
+Ananya41,23,F,A+,Penicillin,Asthma,Dr. Verma,Follow-up,2025-02-08
+Isha42,20,M,O+,Dust,Cardiac Issues,Dr. Mehta,Follow-up,2025-12-02
+Kabir43,29,M,B+,Penicillin,Asthma,Dr. Mehta,Follow-up,2025-05-26
+Rahul44,67,M,A+,Pollen,Diabetes,Dr. Mehta,Consultation,2025-07-18
+Manav45,53,M,O+,Shellfish,Asthma,Dr. Mehta,Follow-up,2025-12-28
+Rohan46,35,M,B+,None,Flu,Dr. Mehta,Checkup,2025-05-22
+Ritika47,43,F,B-,Dust,Cardiac Issues,Dr. Sharma,Follow-up,2025-03-09
+Neha48,70,M,A+,None,Diabetes,Dr. Sharma,Consultation,2025-11-01
+Neha49,43,F,AB-,Gluten,Diabetes,Dr. Verma,Checkup,2025-10-18
+Rohan50,55,F,A-,Pollen,Flu,Dr. Singh,Checkup,2025-12-03
+Karan51,33,F,AB+,None,Flu,Dr. Patel,Consultation,2025-05-14
+Karan52,55,F,A+,None,Asthma,Dr. Verma,Emergency,2025-01-28
+Vikram53,42,F,B+,Penicillin,Flu,Dr. Verma,Checkup,2025-08-28
+Kavya54,51,F,B-,Shellfish,Hypertension,Dr. Singh,Emergency,2025-09-22
+Isha55,42,M,AB-,Pollen,Asthma,Dr. Sharma,Consultation,2025-05-06
+Arjun56,24,F,AB+,Dust,Flu,Dr. Verma,Follow-up,2025-02-10
+Kavya57,57,F,AB+,Penicillin,Flu,Dr. Verma,Emergency,2025-11-18
+Karan58,54,F,AB-,Penicillin,Asthma,Dr. Verma,Consultation,2025-10-20
+Arjun59,45,F,O-,Penicillin,Flu,Dr. Sharma,Follow-up,2025-12-24
+Pooja60,63,F,B+,Pollen,Asthma,Dr. Singh,Checkup,2025-09-25
+Vikram61,45,M,AB+,None,Hypertension,Dr. Patel,Follow-up,2025-06-26
+Rohan62,31,M,B-,Shellfish,Asthma,Dr. Verma,Consultation,2025-12-09
+Nikhil63,37,F,O+,Gluten,Cardiac Issues,Dr. Sharma,Emergency,2025-05-13
+Kabir64,58,F,B+,Penicillin,Diabetes,Dr. Singh,Follow-up,2025-06-16
+Kabir65,46,F,B+,Penicillin,Flu,Dr. Sharma,Emergency,2025-04-18
+Karan66,53,M,A-,None,Flu,Dr. Singh,Emergency,2025-08-02
+Simran67,33,F,O+,Shellfish,Flu,Dr. Patel,Checkup,2025-03-08
+Kavya68,55,F,AB-,Pollen,Hypertension,Dr. Mehta,Consultation,2025-09-13
+Aditya69,68,M,AB+,Penicillin,Hypertension,Dr. Patel,Emergency,2025-07-08
+Rohan70,27,M,A+,Shellfish,Hypertension,Dr. Sharma,Emergency,2025-10-11
+Simran71,55,M,B+,None,Asthma,Dr. Patel,Follow-up,2025-04-22
+Ritika72,41,F,AB+,Pollen,Hypertension,Dr. Mehta,Consultation,2025-05-17
+Ananya73,31,F,B-,Penicillin,Cardiac Issues,Dr. Singh,Checkup,2025-10-07
+Rohan74,26,F,O+,None,Diabetes,Dr. Singh,Emergency,2025-11-04
+Sneha75,48,F,AB-,Pollen,Asthma,Dr. Singh,Checkup,2025-08-18
+Aarav76,32,M,A+,None,Cardiac Issues,Dr. Verma,Checkup,2025-02-10
+Priya77,23,F,A-,Penicillin,Hypertension,Dr. Mehta,Consultation,2025-09-25
+Karan78,39,M,AB-,Gluten,Diabetes,Dr. Patel,Emergency,2025-03-24
+Sneha79,34,M,A-,Shellfish,Hypertension,Dr. Sharma,Consultation,2025-01-15
+Priya80,35,M,AB-,Dust,Diabetes,Dr. Patel,Checkup,2025-06-20
+Vikram81,48,F,O-,None,Asthma,Dr. Patel,Consultation,2025-03-27
+Nikhil82,41,F,A-,Gluten,Cardiac Issues,Dr. Singh,Checkup,2025-01-05
+Meera83,48,F,AB+,Dust,Cardiac Issues,Dr. Singh,Checkup,2025-12-27
+Priya84,70,F,A-,Dust,Diabetes,Dr. Mehta,Checkup,2025-02-17
+Aditya85,23,F,AB+,Gluten,Cardiac Issues,Dr. Singh,Consultation,2025-04-22
+Arjun86,20,F,B-,Gluten,Cardiac Issues,Dr. Mehta,Follow-up,2025-09-20
+Pooja87,63,M,A+,Penicillin,Asthma,Dr. Verma,Checkup,2025-01-08
+Rahul88,29,M,AB-,Pollen,Diabetes,Dr. Patel,Consultation,2025-07-08
+Neha89,21,F,O+,Penicillin,Diabetes,Dr. Mehta,Emergency,2025-11-11
+Aditya90,34,M,O-,Gluten,Diabetes,Dr. Sharma,Follow-up,2025-05-22
+Isha91,22,F,A+,Gluten,Asthma,Dr. Verma,Consultation,2025-02-07
+Rahul92,50,M,O-,None,Hypertension,Dr. Patel,Follow-up,2025-08-21
+Karan93,23,M,A-,None,Flu,Dr. Singh,Checkup,2025-05-28
+Rahul94,39,F,B-,Pollen,Diabetes,Dr. Singh,Checkup,2025-07-20
+Simran95,56,F,B-,Gluten,Diabetes,Dr. Patel,Emergency,2025-06-08
+Simran96,37,M,AB+,Pollen,Asthma,Dr. Patel,Follow-up,2025-07-07
+Sneha97,42,F,AB+,Gluten,Asthma,Dr. Mehta,Checkup,2025-08-26
+Rahul98,57,M,O+,Dust,Hypertension,Dr. Singh,Checkup,2025-10-13
+Isha99,57,M,AB-,Dust,Flu,Dr. Mehta,Emergency,2025-03-13
