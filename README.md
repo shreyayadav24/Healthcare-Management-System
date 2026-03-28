@@ -72,20 +72,19 @@ streamlit run app.py
 ## 📊 Visualizations
 
 ### 📈 Age Distribution
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](age_distribution.png)
 
 ### 🦠 Condition Distribution
-![Condition Distribution](images/condition_distribution.png)
+![Condition Distribution](condition_distribution.png)
 
 ### 👨‍⚕️ Doctor Workload
-![Doctor Workload](images/doctor_workload.png)
+![Doctor Workload](doctor_workload.png)
 
 ### 👩 Gender Distribution
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](gender_distribution.png)
 
 ### 🔍 Condition by Gender
-![Condition by Gender](images/condition_gender.png)
-
+![Condition by Gender](condition_gender.png)
 ---
 
 ## 📊 Key Insights
