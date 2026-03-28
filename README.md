@@ -41,7 +41,7 @@ Worked with realistic synthetic healthcare datasets including demographics, cond
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Healthcare-Management-System.git
+git clone https://github.com/shreyayadav24/Healthcare-Management-System.git
 cd Healthcare-Management-System
 ```
 
