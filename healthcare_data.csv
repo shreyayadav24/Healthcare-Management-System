@@ -1,0 +1,21 @@
+name,age,gender,blood_type,allergies,condition,doctor,appointment_type,date
+Aarav,34,M,O+,None,Hypertension,Dr. Sharma,Checkup,2025-01-12
+Meera,29,F,A+,Penicillin,Diabetes,Dr. Patel,Follow-up,2025-01-15
+Rohan,45,M,B+,Dust,Cardiac Issues,Dr. Mehta,Consultation,2025-01-18
+Ananya,22,F,O-,None,Flu,Dr. Singh,Emergency,2025-01-20
+Kabir,38,M,AB+,Shellfish,Hypertension,Dr. Sharma,Checkup,2025-01-22
+Sneha,31,F,A-,None,Diabetes,Dr. Patel,Follow-up,2025-01-25
+Arjun,50,M,B-,None,Cardiac Issues,Dr. Mehta,Consultation,2025-01-28
+Priya,27,F,O+,Pollen,Asthma,Dr. Verma,Checkup,2025-02-02
+Rahul,41,M,A+,None,Hypertension,Dr. Sharma,Follow-up,2025-02-05
+Isha,36,F,B+,Gluten,Diabetes,Dr. Patel,Consultation,2025-02-08
+Karan,55,M,O-,None,Cardiac Issues,Dr. Mehta,Emergency,2025-02-12
+Neha,24,F,A+,None,Flu,Dr. Singh,Checkup,2025-02-15
+Vikram,48,M,AB-,Dust,Hypertension,Dr. Sharma,Follow-up,2025-02-18
+Simran,30,F,O+,None,Asthma,Dr. Verma,Consultation,2025-02-20
+Aditya,39,M,B+,None,Diabetes,Dr. Patel,Checkup,2025-02-25
+Ritika,33,F,A-,Shellfish,Hypertension,Dr. Sharma,Follow-up,2025-03-01
+Manav,28,M,O+,None,Flu,Dr. Singh,Emergency,2025-03-04
+Pooja,42,F,B-,None,Cardiac Issues,Dr. Mehta,Consultation,2025-03-08
+Nikhil,37,M,A+,Dust,Asthma,Dr. Verma,Checkup,2025-03-12
+Kavya,26,F,O-,None,Diabetes,Dr. Patel,Follow-up,2025-03-15
